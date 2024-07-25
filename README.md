@@ -12,7 +12,6 @@ Olá! Meu nome é Maria Paula, tenho 18 anos  e sou estudante de Engenharia de S
 ## Habilidades
 
 - **Engenharia de Software**: Atualmente aprofundando meus conhecimentos em desenvolvimento de software e práticas de engenharia na UniFil.
-- **Design Gráfico**: Experiência em criação de layouts, edição de imagens e design visual.
 - **Desenvolvimento Web**: Conhecimento em HTML, CSS e JavaScript adquiridos no curso do Londrinense tech.
 
 ---
